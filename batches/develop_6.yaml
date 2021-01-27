@@ -1,0 +1,8 @@
+name: develop_6
+environments:
+  - miniroom:1:4
+  - miniroom:1:5
+  - miniroom:4:5
+  - house:1:4
+  - house:1:5
+  - house:4:5

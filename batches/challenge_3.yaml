@@ -1,0 +1,8 @@
+name: challenge_3
+environments:
+  - office:4
+  - office:5
+  - apartment:4
+  - apartment:5
+  - company:4
+  - company:5
